@@ -12,6 +12,7 @@ module.exports = {
         "react/prop-types": "off",
         "no-unused-vars": "off",
         "react-hooks/exhaustive-deps":"off",
+        "jsx-a11y/anchor-is-valid": 0,
       }
     }
   ]
