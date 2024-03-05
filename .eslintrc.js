@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": ["millow"],
+  "extends": ["react-app"],
   "rules": {
   },
   "overrides": [
